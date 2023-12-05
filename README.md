@@ -15,16 +15,17 @@ for success.
 -  I upload a lot of content and help a lot of people improve their abilities and so does mine.
 -  [Juniors For Juniors - WhatsApp](https://chat.whatsapp.com/F90qsDwPpFl8uP9cciGmwm)
 -  [Juniors For Juniors -Discord](https://discord.gg/pKw5Hweb8t)
--  💬 Ask me about MERN stack and related technologies
-- 📫 How to reach me: saharmish93@gmail.com
+-  💬 Ask me about MERN stack and related technologies.
+- 📫 How to reach me: saharmish93@gmail.com.
 
+- Connect with me: 
+<a href="https://www.facebook.com/sahar.mishan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>   <a href="https://www.linkedin.com/in/sahar-mishan-083666156/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaharMishan&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaharMishan&theme=default&hide_border=false)
-
 
 ![SaharMishan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaharMishan&theme=default&show_icons=true&hide_border=true&layout=compact)
 
@@ -48,10 +49,6 @@ for success.
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sahar.mishan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sahar-mishan-083666156/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 
