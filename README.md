@@ -42,7 +42,7 @@ for success.
 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 250px;"/>
 
 
 
