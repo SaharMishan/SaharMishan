@@ -13,8 +13,8 @@ for success.
 - 🌱 I’m currently learning on Udemy courses to get more knowledge and get better and better.
 - 👯 I manage a community of developers whose goal is to help each other in everything related to Fullstack development.
 -  I upload a lot of content and help a lot of people improve their abilities and so does mine.
--  [Juniors For Juniors - WhatsApp](https://chat.whatsapp.com/F90qsDwPpFl8uP9cciGmwm)
--  [Juniors For Juniors -Discord](https://discord.gg/pKw5Hweb8t)
+-  [DevBuddies - WhatsApp](https://chat.whatsapp.com/F90qsDwPpFl8uP9cciGmwm)
+-  [DevBuddies -Discord](https://discord.gg/pKw5Hweb8t)
 -  💬 Ask me about MERN stack and related technologies.
 - 📫 How to reach me: saharmish93@gmail.com.
 
